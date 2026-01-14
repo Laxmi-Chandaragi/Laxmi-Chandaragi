@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Laxmi 👋
 
-<!--
-**Laxmi-Chandaragi/Laxmi-Chandaragi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Data Analyst** passionate about working with data to discover patterns, generate insights, and support data-driven business decisions.  
+I enjoy data cleaning, exploratory data analysis, and visual storytelling that makes complex data easy to understand.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ❤️ Passion for Data Analytics
+
+I am deeply interested in transforming raw datasets into meaningful insights.  
+I enjoy asking the *right questions*, exploring data from different angles, and presenting results in a clear and impactful way.
+
+My goal is to grow as a data analyst and contribute to organizations by helping them make smarter, evidence-based decisions.
+
+---
+
+## 📈 What I Do as a Data Analyst
+- Data cleaning and preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Data visualization and dashboard creation  
+- Business insight generation from data  
+
+---
+
+## 📫 Contact
+- 📧 Email: yourmail@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/yourname  
+
+---
+
+⭐ *I believe data becomes powerful when it is clean, well-analyzed, and clearly communicated.*
+
