@@ -23,9 +23,8 @@ My goal is to grow as a data analyst and contribute to organizations by helping 
 ---
 
 ## 📫 Contact
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourname  
-
+- 📧 Email: lchandaragi332@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/laxmichandaragi12
 ---
 
 ⭐ *I believe data becomes powerful when it is clean, well-analyzed, and clearly communicated.*
